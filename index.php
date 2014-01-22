@@ -2,10 +2,10 @@
 <html>
 <head>
   <title>nbaplayers</title>
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-  <p><img class="box" src="image/nbaplayers.jpg" alt="nbaplayers Icon">
+  <p><img class="content-box" src="nbaplayers.jpg" alt="nbaplayers Icon">
   </p>
   <div class="box">
     <form action="result.php" method="post">
@@ -13,6 +13,5 @@
       <input type="Submit">
     </form>
    </div> 
-
 </body>
 </html>
